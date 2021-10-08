@@ -1,0 +1,29 @@
+1. What did you like about this website?
+The animation on the home page and the art is interesting. I also liked the Random page.
+
+2. Describe one significant difference between your own P1 site and this person's. E.g.
+One difference is my website is a lot more focused on text while theirs is focused on images.
+   
+   1. Which has a better user experience (and why)?
+   Both sites are easy to use and understand, but I'll go with mine since I'm biased. 
+   
+   2. Which codebase do you think would be more maintainable (and why)?
+   I'd say about equal. Both sites have only one CSS file and it's fairly easy to keep track of everything. There's also not a lot of code in general in either site 
+   since they're basic. 
+
+3. Is the code well-structured within files, and well-organized between files and directories?
+Maybe there was a better way to structure the Gallery code. Besides that, I think the organization and structure is good. 
+   1. if not, suggest some specific improvements
+   Try for less nested code. 
+
+4. Did you find any other issues? If so, briefly enumerate them.
+I think the content is sized poorly on smaller resolutions. I think the navbar could also be improved for smaller resolutions. I also think the Contact and similar pages 
+should be on the end of the navbar while the main content is closer to the left/middle.
+
+   1. were semantically appropriate elements selected
+   Yes.
+   2. is the CSS refactored to limit duplication?
+   Yes.
+
+5. Do you have any other constructive comments for the author?
+No, but I enjoyed looking at and reviewing your website. Keep up the good work!
